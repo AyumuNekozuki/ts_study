@@ -1,3 +1,1 @@
-class Car{
-  
-}
+class Car{}
